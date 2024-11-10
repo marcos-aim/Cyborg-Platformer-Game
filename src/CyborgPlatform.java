@@ -1,8 +1,5 @@
 /*
 Name: Marcos Ibáñez Matles
-NetID: mibanezm
-Project 3
-CSC 171-22 Tues/Thurs|11:05AM-12:20PM
  */
 
 import javax.swing.*;
