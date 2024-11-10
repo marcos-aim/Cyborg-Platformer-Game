@@ -13,6 +13,12 @@ All sprites and images are from [CraftPix](https://craftpix.net/freebies/). Big 
 
 To play, ensure all required image files are organized in the `src` directory as per the setup instructions, and launch the game by running `CyborgPlatform.java`.
 
+   ```bash
+   cd path/to/src
+   javac *.java
+   java CyborgPlatform
+   ```
+
 ## Gameplay Preview
 
 ![Gameplay GIF](gifs/StartGif.gif)
