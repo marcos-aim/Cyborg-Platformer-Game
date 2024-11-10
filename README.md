@@ -9,7 +9,7 @@ In the game, you navigate a level, avoiding obstacles and zombies and tracking y
 - **HUD**: Displays health, score, attempts, and a timer.
 - **Dynamic Level Loading**: Levels are loaded from a text file, where each character represents a different platform or object type.
 
-All sprites are from [CraftPix](https://craftpix.net/freebies/). Big thanks to them for providing these awesome assets for free!
+All sprites and images are from [CraftPix](https://craftpix.net/freebies/). Big thanks to them for providing these awesome assets for free!
 
 To play, ensure all required image files are organized in the `src` directory as per the setup instructions, and launch the game by running `CyborgPlatform.java`. Enjoy surviving the zombie-infested platforms!
 
