@@ -11,7 +11,7 @@ In the game, you navigate a level, avoiding obstacles and zombies and tracking y
 
 All sprites and images are from [CraftPix](https://craftpix.net/freebies/). Big thanks to them for providing these awesome assets for free!
 
-To play, ensure all required image files are organized in the `src` directory as per the setup instructions, and launch the game by running `CyborgPlatform.java`. Enjoy surviving the zombie-infested platforms!
+To play, ensure all required image files are organized in the `src` directory as per the setup instructions, and launch the game by running `CyborgPlatform.java`.
 
 ## Gameplay Preview
 
